@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/31muy17h58n71cyn/branch/main?svg=true)](https://ci.appveyor.com/project/Leferchian/javaautoles2-1/branch/main)
